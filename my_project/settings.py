@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'hello_world',  # Your custom app
+    'about',  # Another custom app
 ]
 
 MIDDLEWARE = [
